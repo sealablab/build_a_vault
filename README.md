@@ -1,6 +1,6 @@
 # build-a-vault
 Follow along and watch as I build a vault from scratch in Obsidian.md v1.4+
-
+`git clone https://github.com/sealablab/build_a_vault`
 # Background
 I (@malefficient) have been an on-again off-again user of the [Obsidian.md](https://obsidian.md/) note-taking taking tool since 2019.
 
@@ -15,14 +15,5 @@ I had a lot of experience watching people use their own setup, but i never reall
 
 So I decided to do the obvious.
 
-# Starting over 
-Create an empty vault, commit it to github, and annotate the commits.
-
-# Build your own vault
-Assuming this project goes as expected, there will be a handul of releases / tags starting to appear below.
-```
-user@localhost: git clone https://github.com/sealablab/build_a_vault
-cd build_a_vault
-open .
-```
+Create an empty vault, commit it to github, and pair it with a running narrative.
 
