@@ -41,13 +41,26 @@ A  list of all the `core-plugins` obsidian enabled by default. (I think)
   "backlink",
   "canvas",
   "outgoing-link",
-
+  "tag-pane",
+  "properties",
+  "page-preview",
+  "daily-notes",
+  "templates",
+  "note-composer",
+  "command-palette",
+  "editor-status",
+  "bookmarks",
+  "outline",
+  "word-count",
+  "file-recovery",
+  "sync"
+]
 ```
 
 
 
 ## .obsidian/core-plugins-migration.json
-I'm not entirely sure what this file actually does.. 
+I'm not entirely sure what this file actually does, but here is a little snippet for flavor
 ``` .obsidian johnycsh$ cat ./core-plugins-migration.json | head -n 8 | jq ```
 ``` json
 {
