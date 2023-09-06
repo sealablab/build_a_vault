@@ -1,6 +1,8 @@
 # build-a-vault
 Follow along and watch as I build a vault from scratch in Obsidian.md v1.4+
+
 `git clone https://github.com/sealablab/build_a_vault`
+
 # Background
 I (@malefficient) have been an on-again off-again user of the [Obsidian.md](https://obsidian.md/) note-taking taking tool since 2019.
 
