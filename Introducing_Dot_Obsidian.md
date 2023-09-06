@@ -26,10 +26,12 @@ Pretty self descriptive. By default it just contains the following
 }
 ```
 ## .obsidian/hotkeys.json
-Initialized to zero bytes. This is where our own hotkey settings will be stored eventually. 
+Initialized to zero bytes.
+> [!tip] Tip this is where our hotkeys will be stored later
 
 ## .obsidian/core-plugins.json
 A  list of all the `core-plugins` obsidian enabled by default. (I think)
+
 ``` .obsidian johnycsh$ cat ./core-plugins.json | head -n 8 | jq ```
 
 ``` json
@@ -61,7 +63,9 @@ A  list of all the `core-plugins` obsidian enabled by default. (I think)
 
 ## .obsidian/core-plugins-migration.json
 I'm not entirely sure what this file actually does, but here is a little snippet for flavor
+
 ``` .obsidian johnycsh$ cat ./core-plugins-migration.json | head -n 8 | jq ```
+
 ``` json
 {
   "file-explorer": true,
