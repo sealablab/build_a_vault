@@ -1,7 +1,10 @@
 ---
 aliases: 
 publish: 
-ctime: 
-mtime: 
+ctime: {{date}}
+mtime: {{date}}{{time}}
 tags:
 ---
+
+# [[ {{title}} ]]
+
