@@ -1,4 +1,6 @@
 # build_a_vault/Changelog 
+## 2023-10-14
+  Added Templates/BaseNote
 ## 2023-09-04
   Initial checkin from @sealablab. https://github.com/sealablab/build_a_vault/ 
   Default branch: Trunk
